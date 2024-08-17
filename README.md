@@ -15,7 +15,7 @@
 <p dir="auto">💬 Ask me about <strong>Web Development</strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:kaveen.dinethma@gmail.com">kaveen.dinethma@gmail.com</a></strong></p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:yehandesilva11@gmail.com">yehandesilva11@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto">⚡ Fun fact <strong>Movie, Tv Series, Game Lover 😎</strong></p>
