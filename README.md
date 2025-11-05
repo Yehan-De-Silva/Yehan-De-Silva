@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yehan</h1>
-<h3 align="center">A passionate IT Student from Sri Lanka</h3>
+<h3 align="center">Freelance Web Developer/Designer from Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yehan-de-silva&label=Profile%20views&color=0e75b6&style=flat" alt="yehan-de-silva" /> </p>
 
@@ -10,7 +10,7 @@
 <td width="50%" align="left">
 <ul dir="auto">
 <li>
-<p dir="auto">🌱 I’m currently learning <strong>HND in Computing & SE </strong></p>
+<p dir="auto">🌱 I have completed <strong>HND in Computing & SE </strong></p>
 </li>
 <li>
 <p dir="auto">🧑‍🎓 I’m an Undergraduate at <strong>ICBT Campus</strong></p>
@@ -19,7 +19,7 @@
 <p dir="auto">💬 Ask me about <strong>Web Development</strong></p>
 </li>
 <li>
-<p dir="auto">📫 How to reach me <strong><a href="mailto:yehandesilva11@gmail.com">yehandesilva11@gmail.com</a></strong></p>
+<p dir="auto">📫 How to reach me <strong><a href="mailto:yehandesilva11@gmail.com">2002yehandesilva@gmail.com</a></strong></p>
 </li>
 <li>
 <p dir="auto">⚡ Fun fact <strong>Movie, Tv Series, Game Lover 😎</strong></p>
